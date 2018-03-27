@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/studingData/python/magnet-spider/.idea/untitled5.iml" filepath="$USER_HOME$/Documents/studingData/python/magnet-spider/.idea/untitled5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/magnet.iml" filepath="$PROJECT_DIR$/.idea/magnet.iml" />
     </modules>
   </component>
 </project>

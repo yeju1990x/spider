@@ -3,4 +3,4 @@
 
 class OutputerService(object):
     def save_content(self, content):
-        pass
+        print(content)
